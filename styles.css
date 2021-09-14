@@ -1,0 +1,36 @@
+body {
+  color: #3DFAFF;
+  background-color: #2F323A;
+}
+h1 {
+  color: #48BEFF;
+}
+h2 {
+  color: #EE6352;
+}
+.openingPPH {
+  font-style: italic;
+  background-color: #40444F;
+}
+.navbar {
+    float: left;
+    border-right: 1px solid #bbb;
+}
+
+.navbar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.navbarul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #40444F;
+}
+.navbar a:hover {
+  background-color: #111;
+}
