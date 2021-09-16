@@ -34,3 +34,22 @@ h2 {
 .navbar a:hover {
   background-color: #111;
 }
+.halvsies {
+  width: 100%%;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.projects {
+    width: 500px;
+  margin: auto;
+}
+.experience {
+  width: 500px;
+  margin: auto;
+}
+.contact {
+  width: 500px;
+  margin: auto;
+}
